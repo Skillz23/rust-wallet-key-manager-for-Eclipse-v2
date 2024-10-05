@@ -17,5 +17,5 @@ This project decodes Base58-encoded private and public keys, ensures they are in
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/rust-wallet-key-manager-for-Eclipse-v2.git
+   git clone https://github.com/Skillz23/rust-wallet-key-manager-for-Eclipse-v2.git
    cd rust-wallet-key-manager-for-Eclipse-v2/wallet_key_json
