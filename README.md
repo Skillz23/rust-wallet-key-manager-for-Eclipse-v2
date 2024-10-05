@@ -1,6 +1,6 @@
 # Rust Wallet Key Manager for Eclipse
 
-This project decodes Base58-encoded private and public keys, ensures they are in the correct format, and serializes them into a JSON file (`wallet.json`).
+This project decodes Base58-encoded private and public keys used in Backpack wallets for example, ensures they are in the correct format, and serializes them into a JSON file (`wallet.json`).
 
 ## Features
 
