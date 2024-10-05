@@ -1,4 +1,4 @@
-# Rust Wallet Key Manager
+# Rust Wallet Key Manager for Eclipse
 
 This project decodes Base58-encoded private and public keys, ensures they are in the correct format, and serializes them into a JSON file (`wallet.json`).
 
@@ -54,12 +54,18 @@ Clone the repository:
  
  You can replace the placeholders with actual keys, for example:
 
- Private Key: `5p3fsFU7GvNJU5L26WQiqK2TUTs8nXyZ2L9Qqc8vVNA1XctwUqe`
+ Private Key: `5p3fsFU7GvNJU5L47UBiqK2TUTs8nXoN2L9Qqc8vVNP3sctwUqe`
  
- Public Key: `B2NpV8eA5WNSnH5F8KTRVNYvExg5AQkrtk`
+ Public Key: `B2NpV8eA5RTSnH5F8KMNRNYvExg5PAkrtk`
  
  When you run the project, the resulting `wallet.json` file will look like this:
  ```json
 [67, 98, 65, 213, 135, 20, ... ]
 ```
+ ## Contributing
+ 
+ Feel free to open issues or submit pull requests if you would like to contribute to the project.
 
+ ## License
+
+ This project is licensed under the MIT License
